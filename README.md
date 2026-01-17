@@ -7,7 +7,7 @@ A modern, frontend-only **Netflix UI clone** built with **React**, **Vite**, and
 ## 🚀 Demo
 
 🔗 **Live Preview:** *Coming soon*
-(Add your deployment link here)
+[Click to preview](https://jazzy-heliotrope-948d48.netlify.app/)
 
 ---
 
@@ -105,7 +105,7 @@ npm run lint
 Example:
 
 ```md
-![Homepage](public/images/homepage.png)
+![Homepage](public/images/netflix-clone-screenshot.webp)
 ```
 
 ---
