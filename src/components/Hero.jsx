@@ -7,7 +7,7 @@ const Hero = () => {
           <div className="absolute bottom-0 w-full h-[95%] bg-[radial-gradient(ellipse_at_top_center,rgba(0,0,255,0.7),#000_50%)] border border-transparent rounded-tl-[100%] rounded-tr-[100%]"></div>
         </div>
 
-        <div className="w-full 3xl:w-[99.5%] aspect-3/5 sm:aspect-5/3 lg:aspect-2/1 bg-[url(images/main-image.jpg)] bg-cover bg-top bg-no-repeat">
+        <div className="w-full 3xl:w-[99.5%] aspect-3/5 sm:aspect-5/3 lg:aspect-2/1 bg-[url('/images/main-image.jpg')] bg-cover bg-top bg-no-repeat">
           <div className="w-full h-full bg-linear-to-b from-black/30 via-black/20 to-black/40 backdrop-brightness-60">
             {/* navbar */}
             <nav className="w-full h-[12%] flex justify-between items-center px-4 sm:px-14 lg:px-32 absolute top-0 bg-linear-to-b from-black/60 to-transparent z-2">
