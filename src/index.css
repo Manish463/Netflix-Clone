@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+    --breakpoint-3xl: 1920px;
+}
+
+@layer utilities {
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+}
